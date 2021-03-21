@@ -11,9 +11,9 @@ cards = new ArrayList<>();
 
     public ArrayList<Cards> getCards() {
         return cards;
-    }//возвращает масив карт человека
+    }
 
     public void setCards(ArrayList<Cards> cards) {
         this.cards = cards;
-    }//задать список карт который есть у челоека
+    }
 }
